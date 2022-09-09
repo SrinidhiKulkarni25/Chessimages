@@ -1,1 +1,1 @@
-# Chessimages
+# Lord Ganesh images
