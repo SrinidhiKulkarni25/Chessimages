@@ -28,7 +28,7 @@ h2{
       background-image: url("https://source.unsplash.com/random/900x700/?Ganesh");
       background-repeat: no-repeat;
       background-size: cover;
-     background-position: top;
+     background-position: center center;
      margin-top: 1%;
       height: 90vh;
       width: 75vw;
