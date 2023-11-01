@@ -3,4 +3,4 @@
 ## Live Website [link](https://lord-ganesha-images.netlify.app/)
 ## This project is not resposive yet.
 
-Note:Due to api from unsplash sometimes other images are appeared other than lord Ganesha.
+Note: Due to api from unsplash sometimes other images are displayed other than lord Ganesha.
